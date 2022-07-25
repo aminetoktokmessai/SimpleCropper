@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Moving Cropper</string>
+    <string name="moving_cropper">SimpleCropper</string>
+    <string name="moving_crop">...</string>
+    <string name="simple_crop">Simple crop</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="rate_our_app">Rate our app</string>
+    <string name="crop">Crop</string>
+</resources>
